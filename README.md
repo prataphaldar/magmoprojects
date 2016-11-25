@@ -1,0 +1,2 @@
+# magmoprojects
+this is readme
